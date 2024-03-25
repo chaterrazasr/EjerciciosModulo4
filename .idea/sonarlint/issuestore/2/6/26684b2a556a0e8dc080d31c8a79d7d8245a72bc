@@ -1,0 +1,45 @@
+
+’
+java:S1192Œ"PDefine a constant instead of duplicating this literal " Interseccion: " 4 times.(ã¨õ¦øÿÿÿÿJ$4b9d5f1d-2190-4189-ae15-4ec1d97f88f0
+‘
+java:S1192"ODefine a constant instead of duplicating this literal "interseccion: " 4 times.(¨ı˜…ùÿÿÿÿJ$c14d5185-e7c1-46da-b4fc-915f5e142db7
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áƒâÄşÿÿÿÿ8¹í¥¡ç1
+|	java:S125"<This block of commented-out lines of code should be removed.(©‰š×úÿÿÿÿJ$203f2942-aeab-47d5-b7e7-b847c79c9fab
+w	java:S125g"<This block of commented-out lines of code should be removed.(Š®¿ùJ$b11050c3-0945-4ff3-8ec7-689d27124d92
+w	java:S125l"<This block of commented-out lines of code should be removed.(Ğø•íJ$9c7e151f-903c-453c-9ccd-9215e9d88a02
+x
+java:S1854z"7Remove this useless assignment to local variable "lon".(ÊÆû€øÿÿÿÿJ$62d60a4b-0150-4239-a25d-7280a21a4dcc
+{
+java:S1854y":Remove this useless assignment to local variable "posEID".(ÌñûáÿÿÿÿÿJ$c83fbd56-001f-48e1-9952-4c0aa97995c4
+{
+java:S1854x":Remove this useless assignment to local variable "posEII".(ğõş›ûÿÿÿÿJ$07334ead-df66-4d4d-9d90-ca2207f8c1f5
+v
+java:S1854w":Remove this useless assignment to local variable "posESD".(’º¨´J$ed89ab71-c77e-4794-a34c-290a921ac049
+g
+java:S1481w"+Remove this unused "posESD" local variable.(’º¨´J$9c336322-58ae-43a7-8629-58a5d6b51cac
+l
+java:S1481x"+Remove this unused "posEII" local variable.(ğõş›ûÿÿÿÿJ$dd5a5826-7f29-4f06-b3f5-935cc48c6f0f
+l
+java:S1481y"+Remove this unused "posEID" local variable.(ÌñûáÿÿÿÿÿJ$61053e7f-f097-486d-b704-b59bd1bfff3a
+i
+java:S1481z"(Remove this unused "lon" local variable.(ÊÆû€øÿÿÿÿJ$134995b3-56af-44ac-a9ec-85ba84ca8060
+k	java:S106{"+Replace this use of System.out by a logger.(”›æåûÿÿÿÿJ$8849512e-c43a-4787-a5b9-0166da58ac23
+w	java:S125|"<This block of commented-out lines of code should be removed.(­½”õJ$b549f3f6-b251-40b8-b710-d0a1e93a7554
+|	java:S125"<This block of commented-out lines of code should be removed.(ÄŞ¶ûùÿÿÿÿJ$5a18ae88-819e-4de2-b413-b6664ab6b128
+l	java:S106Œ"+Replace this use of System.out by a logger.(ã¨õ¦øÿÿÿÿJ$6a77dd88-0cb8-4e65-9730-ae224b4fac59
+l	java:S106”"+Replace this use of System.out by a logger.(²†ûÈûÿÿÿÿJ$c4e23475-2b06-4f59-b72f-315ca05615d3
+l	java:S106œ"+Replace this use of System.out by a logger.(ŞÂ½‘şÿÿÿÿJ$404a95fb-c516-4dca-afbb-ada72bdfca00
+l	java:S106¤"+Replace this use of System.out by a logger.(‚²ÀâúÿÿÿÿJ$c2c829bf-2158-44f4-86d8-4107dff7de09
+}	java:S125¾"<This block of commented-out lines of code should be removed.(’»Ê˜üÿÿÿÿJ$e809ba6b-1fb1-4cd5-a544-079c8a9fe35b
+l	java:S106Ø"+Replace this use of System.out by a logger.(ÒØ¿ÕşÿÿÿÿJ$60e9d2d9-b6ef-406b-9fd0-1cee4a69cad4
+}	java:S125Ù"<This block of commented-out lines of code should be removed.(Á¼·¶øÿÿÿÿJ$42a72a7f-db46-4233-b4e6-954a24594f6b
+x	java:S125ë"<This block of commented-out lines of code should be removed.(‰áœJ$9b7d11e0-76ad-4865-aa64-2f9d949be858
+l	java:S106†"+Replace this use of System.out by a logger.(úôçâøÿÿÿÿJ$798883dd-c701-4da0-8088-e3eb9f37403e
+l	java:S106‹"+Replace this use of System.out by a logger.(ïÓØ‹ÿÿÿÿÿJ$d23cf059-6bd7-430a-94ac-ac36ebb2baf7
+g	java:S106"+Replace this use of System.out by a logger.(…°õÊJ$3c2ca26b-1164-41d6-9f6b-69fb45eacda9
+g	java:S106"+Replace this use of System.out by a logger.(ú”ÜÑJ$2c468d5c-9cf7-48b0-acdb-76f824dcb226
+g	java:S106"+Replace this use of System.out by a logger.(ãøÆ›J$93e81a05-736b-4968-992a-dcecf97193e4
+g	java:S106"+Replace this use of System.out by a logger.(ÁŠíßJ$ce31e973-b4e8-4ab5-9e52-55e175882c54
+g	java:S106‘"+Replace this use of System.out by a logger.(†°ÏJ$a5c432a5-749c-4f8c-b34f-df79cb76ba34
+y
+java:S1144«"7Remove this unused private "verificarEsqSupIzq" method.(Ê„Ÿ½øÿÿÿÿJ$3d9da03e-0f66-41b7-a3bb-162a44d42268

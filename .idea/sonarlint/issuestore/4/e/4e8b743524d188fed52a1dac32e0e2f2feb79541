@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åØúı8±¿Å ç1
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(××øÿÿÿÿJ$c10cbde3-0122-429d-b8fb-597752ee8fdc
+l
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿJ$33c8307b-03c6-456b-a566-24aef9e7b098

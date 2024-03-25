@@ -1,0 +1,12 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŞÑıÿÿÿÿJ$7728c38d-f53d-468e-9f8f-0701fba7a80e
+‹	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÊÛJ$76a0aced-2bd5-4f98-b420-342f37bf5a20
+‘	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖªºÛûÿÿÿÿJ$39fa3e23-b5f6-4579-adf3-f52438982815
+‘	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â’ÍòıÿÿÿÿJ$44e7c186-2eb1-4d4c-a18d-4e8b91bc1c7f
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åØúı8ø˜Å ç1
+	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â’ÍòıÿÿÿÿJ$dc125a96-96e5-48d3-963a-d40ec8873167
+k	java:S106V"+Replace this use of System.out by a logger.(öÍ‘ÇÿÿÿÿÿJ$8394281e-1474-49bb-a2a7-16be8bf6b6e8
+k	java:S106X"+Replace this use of System.out by a logger.(öç»ûÿÿÿÿJ$b7964cbb-b0b2-4605-b2da-5ebd54a35f86
+i
+java:S1068"-Remove this unused "totalSize" private field.(õ™·èJ$b84d1edf-cca1-4e49-92ee-3985f4b164c4

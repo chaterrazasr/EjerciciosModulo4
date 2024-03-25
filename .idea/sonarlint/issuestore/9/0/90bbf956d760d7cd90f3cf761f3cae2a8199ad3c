@@ -1,0 +1,11 @@
+
+¨
+java:S1319"gThe type of "drones" should be an interface such as "List" rather than the implementation "LinkedList".(Ñºº“üÿÿÿÿJ$809e571c-e8e6-4959-b34e-2b320280ac6e
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍòÀ„ûÿÿÿÿ8¢™¬ ç1
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºº“üÿÿÿÿJ$bb44f988-7fc1-4d55-b71d-1ec7d94c5a64
+k	java:S106"+Replace this use of System.out by a logger.(ãîº…ùÿÿÿÿJ$c9c9dc12-5ccf-468f-ba24-b1c62a490601
+k	java:S106	"+Replace this use of System.out by a logger.(úñÞŒúÿÿÿÿJ$8e8f2f6e-3d54-4547-9e77-3ef7ddfdb284
+f	java:S106
+"+Replace this use of System.out by a logger.(–š”©J$cc321a67-b42a-4ca1-81d1-c0783843e9c7
+f	java:S106"+Replace this use of System.out by a logger.(—õáÝJ$66700ced-b0b8-4ff0-8b80-ece90e717843
+f	java:S106"+Replace this use of System.out by a logger.(¥ÉŒ§J$706fcc11-2715-4a41-ad89-eace6187c5f6

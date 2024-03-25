@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸íĞúüÿÿÿÿ8ù´Î ç1J$6cbcfbc5-59e1-455e-9cd9-8bbfdfee9d86
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÊ“§J$8fb77965-23a8-4e03-86b8-140ec4424d5e
+—
+java:S1450"[Remove the "currentIndex" field and declare it as a local variable in the relevant methods.(Òñ‘‹J$f194d8b8-f049-4035-96bb-6041a0ee174c
+£
+java:S1450"bRemove the "currentNumberOfPage" field and declare it as a local variable in the relevant methods.(ÒÊıûÿÿÿÿJ$7f877b2b-ae82-4b01-a1e8-7b9d3636bef7
+|	java:S125"<This block of commented-out lines of code should be removed.( ¡äéşÿÿÿÿJ$fa63c04c-0016-453d-ac65-fae233a14fab
+€
+java:S1117$"?Rename "currentIndex" which hides the field declared at line 8.(£É­şÿÿÿÿJ$f8c595cc-84cf-42aa-9cf5-371849d1296b
+k	java:S106*"+Replace this use of System.out by a logger.(°š¿›ûÿÿÿÿJ$281de2d1-e790-4d3c-8897-00560d77bda5
+f	java:S106+"+Replace this use of System.out by a logger.(¸š†ÕJ$0bd083ff-005a-4da6-af9e-d4f5112fedd5
+k	java:S1068"+Replace this use of System.out by a logger.(¦ãÊ¼úÿÿÿÿJ$5d65c9bc-76ed-4380-9b91-426592ee245c
+|	java:S125R"<This block of commented-out lines of code should be removed.(ÈÓ×’şÿÿÿÿJ$310c7f3b-95f0-4ba7-b9d5-621d91302fa0
+}
+java:S1117Y"BRename "requestPageSize" which hides the field declared at line 9.(úŒívJ$8709d05e-c548-4363-abc8-a4532be1f66e
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ªâØ ç1
+x
+java:S1068"7Remove this unused "currentNumberOfPage" private field.(ÒÊıûÿÿÿÿJ$650dcd08-d5fe-44e4-b2c0-61210568c3f1
+l
+java:S1068"0Remove this unused "currentIndex" private field.(Òñ‘‹J$bac479dd-e1dc-4424-8ea8-336f096e7ede

@@ -1,0 +1,15 @@
+
+¢
+java:S1319"gThe type of "drones" should be an interface such as "List" rather than the implementation "LinkedList".(™æ‹J$35c48111-4d9c-40ee-8041-6d5d62e5ddca
+¥
+java:S1319"jThe type of "locations" should be an interface such as "List" rather than the implementation "LinkedList".(™æ‹J$832929db-97ae-4cd5-95b4-974d14e19649
+¥
+java:S1319^"jThe type of "locations" should be an interface such as "List" rather than the implementation "LinkedList".(üÙÅTJ$db1be23d-a962-43ae-8432-6243a47d9dab
+¨
+java:S1319g"gThe type of "drones" should be an interface such as "List" rather than the implementation "LinkedList".(Äœ‘îþÿÿÿÿJ$d7bfef1d-365d-4983-b9b1-37280fe47547
+«
+java:S1319g"jThe type of "locations" should be an interface such as "List" rather than the implementation "LinkedList".(Äœ‘îþÿÿÿÿJ$0e5e8435-a553-460c-a031-bedd2842297d
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍòÀ„ûÿÿÿÿ8ëç¬ ç1
+q
+java:S1172g"0Remove this unused method parameter "locations".(Äœ‘îþÿÿÿÿJ$a20d69ed-3e1a-4ffd-87a9-4a5903e865c4
+f	java:S106j"+Replace this use of System.out by a logger.(ì­ËžJ$c9532edd-792a-4fc2-929d-4956d3e361f1

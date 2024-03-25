@@ -1,0 +1,10 @@
+
+„
+java:S1192"IDefine a constant instead of duplicating this literal "Damage: " 3 times.(¼‰»YJ$1f4f517c-c85e-45d2-b66c-19bf3914c64e
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°¯Äîþÿÿÿÿ8ÚöÊ ç1
+k	java:S106	"+Replace this use of System.out by a logger.(· ¨ÒýÿÿÿÿJ$1551a203-a8fe-4b3f-a8b6-ce2865776d2d
+f	java:S106"+Replace this use of System.out by a logger.(ÈâŒ–J$2da6c9a1-d202-4830-b85d-840ab548c67d
+k	java:S106"+Replace this use of System.out by a logger.(ŒÎÿ—ýÿÿÿÿJ$6e6a334a-ed1a-4fc5-889e-ba7b53693851
+e	java:S106"+Replace this use of System.out by a logger.(¼‰»YJ$36f0810f-8308-4364-a884-11a2847119dc
+e	java:S106'"+Replace this use of System.out by a logger.(¼‰»YJ$fa0aa0c9-3d41-4085-8244-aab85278945c
+e	java:S1064"+Replace this use of System.out by a logger.(¼‰»YJ$3c03d670-ac5e-43d4-837a-a924c6d92764

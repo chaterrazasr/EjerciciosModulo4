@@ -1,0 +1,65 @@
+EJERCICIO Numero 1 - Drone Delivery Service - Servicio de entrega de drones
+-------------------------------------------------------------------------INGLES-----------------------------------------------------------------------------------------
+Description
+A squad of drones have been tasked with delivering packages for a major online reseller in a world where time and distance do not matter.
+Each drone can carry a specific weight, and can make multiple deliveries before returning to home base to pick up additional loads;
+however the goal is to make the fewest number of trips as each time the drone returns to home base it is extremely costly to refuel and reload the drone.
+The purpose of the written software will be to accept input which will include the name of each drone and the maximum weight it can carry,
+along with a series of locations and the total weight needed to be delivered to that specific location. The software should highlight the most
+efficient deliveries for each drone to make on each trip.
+Assume that time and distance to each drop off location do not matter, and that size of each package is also irrelevant.
+It is also assumed that the cost to refuel and restock each drone is a constant and does not vary between drones.
+The maximum number of drones in a squad is 100, and there is no maximum number of deliveries which are required.
+
+Given Input
+Line 1: [Drone #1 Name], [#1 Maximum Weight], [Drone #2 Name], [#2 Maximum Weight], etc.
+Line 2: [Location #1 Name], [Location #1 Package Weight]
+Line 3: [Location #2 Name], [Location #2 Package Weight]
+Line 4: [Location #3 Name], [Location #3 Package Weight]
+Etc.
+
+
+Expected Output
+[Drone #1 Name]
+Trip #1
+[Location #2 Name], [Location #3 Name]
+Trip #2
+[Location #1 Name]
+[Drone #2 Name]
+Trip #1
+[Location #4 Name], [Location #7 Name]
+Trip #2
+[Location #5 Name], [Location #6 Name]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------ESPAÑOL----------------------------------------------------------------------------------------
+Descripción
+A un escuadrón de drones se le ha encomendado la tarea de entregar paquetes para un importante revendedor en línea en un mundo donde el tiempo y la distancia no importan.
+Cada dron puede transportar un peso específico y puede realizar múltiples entregas antes de regresar a la base para recoger cargas adicionales;
+sin embargo, el objetivo es realizar el menor número de viajes, ya que cada vez que el dron regresa a su base es extremadamente costoso repostar y recargar el dron.
+El propósito del software escrito será aceptar entradas que incluirán el nombre de cada dron y el peso máximo que puede transportar.
+junto con una serie de ubicaciones y el peso total necesario para ser entregado en esa ubicación específica. El software debe resaltar lo más
+entregas eficientes para que cada drone realice en cada viaje.
+Supongamos que el tiempo y la distancia hasta cada lugar de entrega no importan y que el tamaño de cada paquete también es irrelevante.
+También se supone que el costo de repostar y reabastecer cada dron es constante y no varía entre drones.
+El número máximo de drones en un escuadrón es 100 y no hay un número máximo de entregas necesarias.
+
+
+Entrada dada
+Línea 1: [Nombre del Drone #1], [Peso máximo #1], [Nombre del Drone #2], [Peso máximo #2], etc.
+Línea 2: [Nombre de la Ubicación #1], [Peso del paquete de la Ubicación #1]
+Línea 3: [Nombre de la Ubicación #2], [Peso del paquete de la Ubicación #2]
+Línea 4: [Nombre de la Ubicación #3], [Peso del paquete de la Ubicación #3]
+Etc.
+
+
+Rendimiento esperado
+[Nombre del dron n.° 1]
+Viaje #1
+[Nombre de la ubicación n.º 2], [Nombre de la ubicación n.º 3]
+Viaje #2
+[Nombre de la ubicación #1]
+[Nombre del dron n.° 2]
+Viaje #1
+[Nombre de la ubicación n.º 4], [Nombre de la ubicación n.º 7]
+Viaje #2
+[Nombre de la ubicación n.° 5], [Nombre de la ubicación n.° 6]

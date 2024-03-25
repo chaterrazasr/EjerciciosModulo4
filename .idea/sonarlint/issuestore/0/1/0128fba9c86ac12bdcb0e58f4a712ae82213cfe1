@@ -1,0 +1,10 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒºÃÈÿÿÿÿÿ8¥è¥¡ç1
+E	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
+K
+java:S2440".Remove this instantiation of "ParserInterval".(Î˜™ú8¶é¥¡ç1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ë¥Áç8Áé¥¡ç1
+F
+java:S5413")Verify that "remove()" is used correctly.(œ›ô“8Íé¥¡ç1
